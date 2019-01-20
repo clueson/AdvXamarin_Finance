@@ -1,0 +1,1 @@
+C:\Users\Colin\Documents\Projects\Xamarin\Finance\Finance\Finance.UWP\Finance.UWP.csproj;x86

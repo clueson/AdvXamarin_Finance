@@ -1,0 +1,12 @@
+C:\Users\Colin\Documents\Projects\Xamarin\Finance\Finance\Finance\bin\Debug\netstandard2.0\Finance.deps.json
+C:\Users\Colin\Documents\Projects\Xamarin\Finance\Finance\Finance\bin\Debug\netstandard2.0\Finance.dll
+C:\Users\Colin\Documents\Projects\Xamarin\Finance\Finance\Finance\bin\Debug\netstandard2.0\Finance.pdb
+C:\Users\Colin\Documents\Projects\Xamarin\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.csprojAssemblyReference.cache
+C:\Users\Colin\Documents\Projects\Xamarin\Finance\Finance\Finance\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\Finance\Finance\Finance\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Colin\Documents\Projects\Xamarin\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\Projects\Xamarin\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.AssemblyInfoInputs.cache
+C:\Users\Colin\Documents\Projects\Xamarin\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.AssemblyInfo.cs
+C:\Users\Colin\Documents\Projects\Xamarin\Finance\Finance\Finance\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Colin\Documents\Projects\Xamarin\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.dll
+C:\Users\Colin\Documents\Projects\Xamarin\Finance\Finance\Finance\obj\Debug\netstandard2.0\Finance.pdb
